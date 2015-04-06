@@ -47,6 +47,7 @@
 		".pants.d",
 		".pids"
 	],
+	"font_face": "Source Code Pro",
 	"font_options":
 	[
 		"subpixel_antialias"
